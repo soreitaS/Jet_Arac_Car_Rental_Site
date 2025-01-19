@@ -1,0 +1,56 @@
+﻿@model CreateReservationDto
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+<div class="col-md-12 block-9 mb-md-5">
+    <form class="bg-light p-5 contact-form" method="post">
+        <div class="form-group">
+            <label>Almak İstediğiniz Araba</label>
+            <input type="hidden" asp-for="CarID" value="@ViewBag.v3" class="form-control" >
+        </div>
+        <div class="form-group">
+            <label>Adınız</label>
+            <input type="text" asp-for="Name" class="form-control" >
+        </div>
+        <div class="form-group">
+            <label>Soyadınız</label>
+            <input type="text" asp-for="Surname" class="form-control" >
+        </div>
+        <div class="form-group">
+            <label>Mail Adresiniz</label>
+            <input type="text" asp-for="Email" class="form-control" >
+        </div>
+        <div class="form-group">
+            <label>Telefon Numaranız</label>
+            <input type="text" asp-for="Phone" class="form-control" >
+        </div>
+        <div class="form-group">
+            <label>Aracı Teslim Almak İstediğiniz Lokasyon</label>
+            @Html.DropDownListFor(x => x.DropOffLocationID,(List<SelectListItem>)ViewBag.v, new {@class="form-control"})
+        </div>
+        <div class="form-group">
+            <label>Aracı Teslim Etmek İstediğiniz Lokasyon</label>
+            @Html.DropDownListFor(x => x.PickUpLocationID,(List<SelectListItem>)ViewBag.v, new {@class="form-control"})
+        </div>
+        <div class="form-group">
+            <label>Yaşınız</label>
+            <input type="text" asp-for="Age" class="form-control" >
+        </div>
+        <div class="form-group">
+            <label>Ehliyet Yılınız</label>
+            <input type="text" asp-for="DriverLicenseYear" class="form-control" >
+        </div>
+        <div class="form-group">
+            <label>Şikayet, Öneri ve Mesajınız</label>
+            <textarea id="" cols="30" rows="7" asp-for="Description" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Rezervasyonu Tamamla" class="btn btn-primary py-3 px-5">
+        </div>
+    </form>
+
+</div>
+
+

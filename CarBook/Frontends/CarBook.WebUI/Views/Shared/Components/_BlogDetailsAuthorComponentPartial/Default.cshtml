@@ -1,0 +1,13 @@
+﻿@model List<GetAuthorByBlogAuthorIdDto>
+@foreach(var item in Model)
+{
+<div class="about-author d-flex p-4 bg-light">
+    <div>
+        <img src="~/carbook-master/images/person_icon.jpg"/>
+    </div>
+    <div class="desc">
+        <h3>@item.AuthorName</h3>
+        <p>@item.AuthorDescription</p>
+    </div>
+</div>
+}

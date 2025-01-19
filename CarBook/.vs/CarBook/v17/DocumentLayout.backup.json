@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\carbook\\frontends\\carbook.webui\\views\\signalrcar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\signalrcar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\carbook\\frontends\\carbook.webui\\controllers\\signalrcarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\controllers\\signalrcarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72711F-12E7-4777-9E38-C1C58808363D}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\carbook\\presentation\\carbook.webapi\\hubs\\carhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72711F-12E7-4777-9E38-C1C58808363D}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\hubs\\carhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\carbook\\frontends\\carbook.webui\\views\\carpricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\carpricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\carbook\\frontends\\carbook.webui\\controllers\\carpricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\controllers\\carpricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EABC8F-1507-4A10-B349-54D7ED40691C}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\carbook\\frontends\\carbook.dto\\carpricingdtos\\resultcarpricinglistwithmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EABC8F-1507-4A10-B349-54D7ED40691C}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|solutionrelative:frontends\\carbook.dto\\carpricingdtos\\resultcarpricinglistwithmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\carbook\\frontends\\carbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E2E30A-7F15-4708-A7E5-C4C1A30EFE7F}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Views\\SignalRCar\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\SignalRCar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Views\\SignalRCar\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\SignalRCar\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:09:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignalRCarController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\SignalRCarController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Controllers\\SignalRCarController.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\SignalRCarController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Controllers\\SignalRCarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:09:21.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarHub.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Presentation\\CarBook.WebApi\\Hubs\\CarHub.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Hubs\\CarHub.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Presentation\\CarBook.WebApi\\Hubs\\CarHub.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Hubs\\CarHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:42:45.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Views\\CarPricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\CarPricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Views\\CarPricing\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\CarPricing\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:36:25.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultCarPricingListWithModelDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.Dto\\CarPricingDtos\\ResultCarPricingListWithModelDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.Dto\\CarPricingDtos\\ResultCarPricingListWithModelDto.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.Dto\\CarPricingDtos\\ResultCarPricingListWithModelDto.cs",
+              "RelativeToolTip": "Frontends\\CarBook.Dto\\CarPricingDtos\\ResultCarPricingListWithModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:36:11.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarPricingController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\CarPricingController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Controllers\\CarPricingController.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\CarPricingController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Controllers\\CarPricingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:35:50.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T03:39:11.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
